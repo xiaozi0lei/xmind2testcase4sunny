@@ -58,13 +58,13 @@
 
 ### 三、安装方式
 ```
-pip3 install xmind2testcase
+pip3 install xmind2testcase4sunny
 ```
 
 
 ### 四、版本升级
 ```
-pip3 install -U xmind2testcase
+pip3 install -U xmind2testcase4sunny
 ```
 
 
